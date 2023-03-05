@@ -1,0 +1,34 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: 	#669bbc;
+
+}
+div{position: absolute}
+
+.white-stripe{
+justify-content:center;
+background-color:#ffffff;
+height:35px;
+width: 100%;
+top:200px;
+}
+.black-stripe{
+    justify-content:center;
+    background-color:#000000;
+    height: 250px;
+    width: 100%;
+    top:235px;
+    
+}
+.white-stripe2{
+    justify-content:center;
+background-color:#ffffff;
+height:35px;
+width: 100%;
+top: 485px;
+    
+}
